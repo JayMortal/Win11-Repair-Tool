@@ -68,7 +68,7 @@ Win11 深度修复工具是一款轻量级、易用的 Windows 11 系统维护�
 
 ### 方式二：从源码编译
 1. 安装 [AutoIt](https://www.autoitscript.com/site/autoit/downloads/)
-2. 克隆本仓库：git clone https://github.com/JayMortal/win11-repair-tool.git
+2. 克隆本仓库：git clone https://github.com/JayMortal/Win11-Repair-Tool.git
 3. 右键点击 `.au3` 文件 → **"Compile Script"**
 
 ---
