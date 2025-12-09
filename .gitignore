@@ -1,0 +1,21 @@
+# AutoIt compiled files
+*.exe
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Windows system files
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Build artifacts
+*.zip
+*.7z
