@@ -51,11 +51,11 @@ Win11 Repair Tool is a lightweight, user-friendly Windows 11 maintenance utility
 
 ## 📸 Screenshots
 
-### Chinese Interface
-> Add screenshot: `screenshots/main_zh.png`
-
 ### English Interface
-> Add screenshot: `screenshots/main_en.png`
+![English Interface](screenshots/main_en.png)
+
+### Chinese Interface
+![Chinese Interface](screenshots/main_zh.png)
 
 ---
 
