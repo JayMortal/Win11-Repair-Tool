@@ -17,7 +17,7 @@
 
 ## ✨ Introduction
 
-Win11 Repair Tool is a lightweight, user-friendly Windows 11 maintenance utility that integrates 15 practical features to help users quickly resolve common system issues and optimize their experience.
+Win11 Repair Tool is a lightweight, user-friendly Windows 11 maintenance utility that integrates 11 practical features to help users quickly resolve common system issues and optimize their experience.
 
 **Key Features:**
 - 🎯 **One-Click Operations** - No complex commands, just click and done
@@ -119,7 +119,7 @@ After downloading `Win11RepairTool.exe`, right-click and select **"Run as admini
 ## 📝 Changelog
 
 ### v0.3 (2025-12-09)
-- ✨ Added 15 core features
+- ✨ Added 11 core features
 - 🌍 Bilingual interface support
 - 🎨 Three-column layout design
 - 📊 Real-time tree-structured logging
