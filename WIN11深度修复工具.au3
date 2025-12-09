@@ -1,5 +1,5 @@
 #RequireAdmin
-#Region ;**** 编译参数配置 ****
+#Region ;**** 编译参数配置仅供参考 ****
 #AutoIt3Wrapper_Icon=WIN11深度修复工具.ico
 #AutoIt3Wrapper_Res_Description=Win11 Repair Tool
 #AutoIt3Wrapper_Res_Fileversion=0.3.0.0
