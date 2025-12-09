@@ -9,7 +9,7 @@
   
   **一款专为 Windows 11 设计的系统优化和修复工具**
   
-  [English](README_EN.md) | 简体中文
+  简体中文 | [English](README_EN.md)
   
 </div>
 
