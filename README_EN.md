@@ -68,4 +68,110 @@ After downloading `Win11RepairTool.exe`, right-click and select **"Run as admini
 
 ### Method 2: Build from Source
 1. Install [AutoIt](https://www.autoitscript.com/site/autoit/downloads/)
-2. Clone this repository:
+2. Clone this repository: git clone https://github.com/JayMortal/Win11-Repair-Tool.git
+3. Right-click the `.au3` file → **"Compile Script"**
+
+---
+
+## 💡 Usage Guide
+
+### System Requirements
+- **OS**: Windows 11 (64-bit)
+- **Privileges**: Administrator rights required
+- **Dependencies**: No additional components needed
+
+### How to Use
+1. Run the program as administrator
+2. Select the desired function button
+3. Confirm the operation as prompted
+4. Check the log window for execution results
+
+### Language Switching
+- The program auto-detects system language
+- Click **"EN/中"** button in the top-right corner to switch manually
+
+---
+
+## ⚠️ Important Notes
+
+- ⚡ **"System Fix All"** feature takes 10-30 minutes, please be patient
+- 🔄 Some features require **PC restart** to take effect
+- 💾 **Backup important data** before using advanced features
+- ❌ All operations can be reverted via corresponding **"Restore"** buttons
+
+---
+
+## 🛠️ Technical Details
+
+### Development Environment
+- **Language**: AutoIt v3.3.16+
+- **Compiler**: AutoIt3Wrapper
+- **Architecture**: Single-file executable
+
+### Core Technologies
+- Safe registry operation encapsulation
+- Dynamic multi-language switching
+- Real-time tree-structured logging
+- Command-line error handling
+
+---
+
+## 📝 Changelog
+
+### v0.3 (2025-12-09)
+- ✨ Added 15 core features
+- 🌍 Bilingual interface support
+- 🎨 Three-column layout design
+- 📊 Real-time tree-structured logging
+- 🔗 Integrated official website access
+
+---
+
+## 🤝 Contributing
+
+Issues and Pull Requests are welcome!
+
+### How to Contribute
+1. Fork this repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Submit a Pull Request
+
+### Report Issues
+If you encounter bugs or have feature suggestions, please [submit an Issue](../../issues).
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+This means you can freely:
+- ✅ Use, copy, modify, merge, publish, distribute this software
+- ✅ Use this software for commercial purposes
+- ⚠️ Must retain copyright and license notices
+
+---
+
+## 👨‍💻 Author
+
+**JayMortal**  
+🌐 Official Website: [yjggfun.com](https://yjggfun.com)  
+💬 Contact: Via [Issues](../../issues) or visit the website
+
+---
+
+## ⭐ Star History
+
+If this project helps you, please give it a **Star** ⭐!
+
+---
+
+<div align="center">
+  
+  **Crafted with ❤️ by JayMortal**
+  
+  [⬆ Back to Top](#win11-repair-tool-)
+  
+</div>
